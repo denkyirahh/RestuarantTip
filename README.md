@@ -1,1 +1,2 @@
 # RestuarantTip
+Restuarant Tip Calculator
